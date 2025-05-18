@@ -1,0 +1,17 @@
+<div class="profile">
+  <img src="https://your-online-image-url.jpg" alt="Profile Photo" />
+  <div>
+    <h1>Carl John Asingua</h1>
+    <p>Web Developer | Designer | Programmer</p>
+  </div>
+</div>
+
+<div class="social-icons">
+    <a href="https://facebook.com/yourprofile" target="_blank">
+      <img src="https://path-to-facebook-icon.png" alt="Facebook">
+    </a>
+    <a href="https://github.com/Emoji30" target="_blank">
+      <img src="https://path-to-github-icon.png" alt="GitHub">
+    </a>
+  </div>
+  
